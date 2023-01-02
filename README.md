@@ -1,11 +1,12 @@
-# bike-sharing-casual-vs-member-riders
+# Under Development...
+## bike-sharing-casual-vs-member-riders
 Cyclistic: A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic users are more likely to ride for leisure, but about 30% use them to
 commute to work each day.
 
-## The main question that need to be answered by analyzing the data
+### The main question that need to be answered by analyzing the data
 1. How do annual members and casual riders use Cyclistic bikes differently?
 
-## Deliverables:
+### Deliverables:
 By analyzing the previous 12 months of Cyclistic trip data need to produce a report with the following deliverables:
 1. A clear statement of the business task
 2. A description of all data sources used
