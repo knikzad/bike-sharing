@@ -16,12 +16,13 @@ By analyzing the [previous 12 months of Cyclistic trip data](https://divvy-tripd
 6. Your top three recommendations based on your analysis
 
 * [data_analyze.R](https://github.com/knikzad/bike-sharing-casual-vs-member-riders/blob/main/data_analize.R)
-This is the main file that analyzed the [previous 12 months of Cyclistic trip data](https://divvy-tripdata.s3.amazonaws.com/index.html) Google Data Analytics Capstone Project using R.
+This is the main file for analyzing the [previous 12 months of cycling trip data](https://divvy-tripdata.s3.amazonaws.com/index.html) for case study 1 in the Google Data Analytics Capstone Project using R.
 
 * [data_analyze.Rmd](https://github.com/knikzad/bike-sharing-casual-vs-member-riders/blob/main/data_analyze.Rmd)
-This is a R markdown file that is used to describe the process of the data analysis in [data_analyze.R](https://github.com/knikzad/bike-sharing-casual-vs-member-riders/blob/main/data_analize.R) file step by step
+A step-by-step description of how the data analysis is performed in the [data_analyze.R](https://github.com/knikzad/bike-sharing-casual-vs-member-riders/blob/main/data_analize.R) file can be found in this R markdown file
 
 * [Tableau Dashboard](https://public.tableau.com/app/profile/khalifa.nikzad/viz/GoogleCapstoneProjectCyclisticMembervsCasualRiders/AnalysisofCyclistic)
-For data visualization I used Tableau to create a dashboard to summarize the data analysis result.
+Using Tableau, I created a dashboard to visualize the results of the data analysis.
+
 * [Analysis Report](#)
 Under Development...
