@@ -8,7 +8,7 @@ commute to work each day.
 2. How to convert casual riders to annual members?
 
 ### Deliverables:
-By analyzing the [previous 12 months of Cyclistic trip data](https://divvy-tripdata.s3.amazonaws.com/index.html), I intend to produce a report that includes the following deliverables:
+By analyzing the [previous 12 months of Cyclistic trip data](https://divvy-tripdata.s3.amazonaws.com/index.html), I intend to produce a detailed presentation that includes the following deliverables:
 1. A clear statement of the business task
 2. A description of all data sources used
 3. Documentation of any cleaning or manipulation of data
@@ -25,5 +25,5 @@ A step-by-step description of how the data analysis is performed in the [data_an
 * [Tableau Dashboard](https://public.tableau.com/app/profile/khalifa.nikzad/viz/GoogleCapstoneProjectCyclisticMembervsCasualRiders/AnalysisofCyclistic)
 Using Tableau, I created a dashboard to visualize the results of the data analysis.
 
-* [Analysis Report](#)
-Under Development...
+* [Detailed presentation](https://knikzad.github.io/bike_sharing_presentation.html)
+To present the results of my analysis, I created a PowerPoint presentation.
