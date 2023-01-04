@@ -16,11 +16,11 @@ By analyzing the [previous 12 months of Cyclistic trip data](https://divvy-tripd
 6. Your top three recommendations based on your analysis
 
 ### Useful links:
-* [data_analyze.R](https://github.com/knikzad/bike-sharing-casual-vs-member-riders/blob/main/data_analize.R)
+* [data_analyze.R](https://github.com/knikzad/bike-sharing/blob/main/analyze_data.R)
 This is the main file for analyzing the [previous 12 months of cycling trip data](https://divvy-tripdata.s3.amazonaws.com/index.html) for case study 1 in the Google Data Analytics Capstone Project using R.
 
-* [data_analyze.Rmd](https://github.com/knikzad/bike-sharing-casual-vs-member-riders/blob/main/data_analyze.Rmd)
-A step-by-step description of how the data analysis is performed in the [data_analyze.R](https://github.com/knikzad/bike-sharing-casual-vs-member-riders/blob/main/data_analize.R) file can be found in this R markdown file
+* [Analysis Process](https://knikzad.github.io/bike_sharing_how_to.html)
+A step-by-step description of how the data analysis is performed can be found here.
 
 * [Tableau Dashboard](https://public.tableau.com/app/profile/khalifa.nikzad/viz/GoogleCapstoneProjectCyclisticMembervsCasualRiders/AnalysisofCyclistic)
 Using Tableau, I created a dashboard to visualize the results of the data analysis.
