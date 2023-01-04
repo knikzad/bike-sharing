@@ -3,7 +3,7 @@
 Cyclistic: A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic users are more likely to ride for leisure, but about 30% use them to
 commute to work each day.
 
-### Business task
+### Business task:
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. How to convert casual riders to annual members?
 
