@@ -1,7 +1,6 @@
 # Google Data Analytics Capstone Project
 ## Annual membership versus casual use of bike sharing
-Cyclistic: A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic users are more likely to ride for leisure, but about 30% use them to
-commute to work each day.
+Cyclistic: A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic users are more likely to ride for leisure, but about 30% use them to commute to work each day.
 
 ### Business task:
 1. How do annual members and casual riders use Cyclistic bikes differently?
@@ -16,6 +15,7 @@ By analyzing the [previous 12 months of Cyclistic trip data](https://divvy-tripd
 5. Supporting visualizations and key findings
 6. Your top three recommendations based on your analysis
 
+### Useful links:
 * [data_analyze.R](https://github.com/knikzad/bike-sharing-casual-vs-member-riders/blob/main/data_analize.R)
 This is the main file for analyzing the [previous 12 months of cycling trip data](https://divvy-tripdata.s3.amazonaws.com/index.html) for case study 1 in the Google Data Analytics Capstone Project using R.
 
